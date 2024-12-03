@@ -2,11 +2,21 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.1-alpha.10] - 2024-12-03
+
+### 📚 Documentation
+
+- Update readme
+
 ## [0.0.1-alpha.9] - 2024-12-03
 
 ### 🚀 Features
 
 - Add changelog
+
+### ⚙️ Miscellaneous Tasks
+
+- Release 0.0.1-alpha.9
 
 ## [0.0.1-alpha.8] - 2024-12-03
 
