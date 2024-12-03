@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.1-alpha.13] - 2024-12-03
+
+### 🐛 Bug Fixes
+
+- Update changelog template
+
+## [0.0.1-alpha.12] - 2024-12-03
+
+### ⚙️ Miscellaneous Tasks
+
+- Release 0.0.1-alpha.12
+
 ## [0.0.1-alpha.11] - 2024-12-03
 
 ### ⚙️ Miscellaneous Tasks
