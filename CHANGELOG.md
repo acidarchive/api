@@ -8,6 +8,10 @@ All notable changes to this project will be documented in this file.
 
 - Update changelog template
 
+### ⚙️ Miscellaneous Tasks
+
+- Release 0.0.1-alpha.13
+
 ## [0.0.1-alpha.12] - 2024-12-03
 
 ### ⚙️ Miscellaneous Tasks
