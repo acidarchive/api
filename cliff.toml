@@ -3,7 +3,6 @@
 #
 
 [changelog]
-# template for the changelog header
 header = """
 # Changelog\n
 All notable changes to this project will be documented in this file.\n
