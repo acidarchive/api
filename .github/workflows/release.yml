@@ -24,6 +24,12 @@ jobs:
       - name: Fetch all tags
         run: git fetch --tags
 
+      - name: Fetch all tags
+        run: git fetch --tags
+
+      - name: Pull latest changes from main
+        run: git pull origin main
+
       - name: Install Rust
         uses: actions-rs/toolchain@v1
         with:
