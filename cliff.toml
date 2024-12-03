@@ -22,7 +22,7 @@ body = """
     {% endfor %}
 {% endfor %}\n
 """
-# template for the changelog footer
+
 footer = """"""
 
 trim = true
