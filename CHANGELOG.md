@@ -8,6 +8,10 @@ All notable changes to this project will be documented in this file.
 
 - Update readme
 
+### ⚙️ Miscellaneous Tasks
+
+- Release 0.0.1-alpha.10
+
 ## [0.0.1-alpha.9] - 2024-12-03
 
 ### 🚀 Features
