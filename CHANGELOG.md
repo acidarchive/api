@@ -2,11 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.1-alpha.16] - 2024-12-03
+
+### ⚙️ Miscellaneous Tasks
+
+- Only release when pushed to main
+
 ## [0.0.1-alpha.15] - 2024-12-03
 
 ### ⚙️ Miscellaneous Tasks
 
 - Update workflow
+- Release 0.0.1-alpha.15
 
 ## [0.0.1-alpha.14] - 2024-12-03
 
